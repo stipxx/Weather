@@ -1,12 +1,11 @@
-# NOTE
-
+** NOTE: ANY NEW UPDATES PASSED 0.4.3 (IN HERE) WILL BE IN THE RELEASE TAG. THE BOT IS ON V0.4.7.**
 
 
 
 Recent changelog of the newest features:
 
 
-V0.4.3 Released 10/5/18 at 11 pm, PST. Ah yes, a new update. I've had a hard week with school and stuff, haven't been able to update. Did have to make a "outdated code" update 10/2 as the bot wouldn't start.. gonna be seeing lots of those. However, a nice new update is out now. Support Server is live, use |support for some more information. Big, big update Sunday with some bot-info commands (hopefully.)
+# V0.4.3 Released 10/5/18 at 11 pm, PST. Ah yes, a new update. I've had a hard week with school and stuff, haven't been able to update. Did have to make a "outdated code" update 10/2 as the bot wouldn't start.. gonna be seeing lots of those. However, a nice new update is out now. Support Server is live, use |support for some more information. Big, big update Sunday with some bot-info commands (hopefully.)
 V0.4.3: This update brings 4 new commands and some new improvements.
 
 "4" new commands. Mainly, hurricanenames, retirednames, support and changelog FIANLLY work. Support is really the new one.
@@ -21,16 +20,17 @@ Updated the help command with a little bit more information.
 
 7 other minor fixes.
 
-V0.4.2.1 Released at 10/2/18
+# V0.4.2.1 Released at 10/2/18
 
 Updated outdated coding.
 Fixed |hurricane command once again..
-V0.4.2.0
-V0.4.2.0 Released 9/30/18 at 9:55 pm, PST.
+ V0.4.2.0
+
+# V0.4.2.0 Released 9/30/18 at 9:55 pm, PST.
 
 Quick Patch when using |media, it would leak almost 1/3 of the bot code.
-V0.4.2 Released 9/30/18 at 9:10 pm, PST.
-V0.4.2: This update brings a 3 new commands, new profile picture, and minor bugs
+# V0.4.2 Released 9/30/18 at 9:10 pm, PST.
+# V0.4.2: This update brings a 3 new commands, new profile picture, and minor bugs
 
 3 new commands! |hurricanenames, |retirednames. 3rd command broke.
 Some moderation commands (owner only rn)
