@@ -1,2 +1,2 @@
 # Weather
-Understand the weather
+Understand the weather®
