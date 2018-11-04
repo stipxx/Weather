@@ -1,6 +1,10 @@
+# NOTE
+
+
+
+
 Recent changelog of the newest features:
 
-next update will likely be Sunday, unless i fix something Saturday.
 
 V0.4.3 Released 10/5/18 at 11 pm, PST. Ah yes, a new update. I've had a hard week with school and stuff, haven't been able to update. Did have to make a "outdated code" update 10/2 as the bot wouldn't start.. gonna be seeing lots of those. However, a nice new update is out now. Support Server is live, use |support for some more information. Big, big update Sunday with some bot-info commands (hopefully.)
 V0.4.3: This update brings 4 new commands and some new improvements.
