@@ -7,10 +7,15 @@ Weather is a discord bot created in js to give you information about any kind of
 
 
 # ❗  WEATHER BOT IS ON DISCORDBOT LISTS ❗  
-   Add It from here:
+   Add It from here: https://discordbots.org/bot/393285268930691072
    
    
-  # Want to see sneekpeeks and see development? Join the support server
+# ✔️ Need help with Weather? Or wanna hang and see stip and see some early development information? IT JUST DROPPED.. JOIN! ✔️ 
+  IT JUST DROPPED.. JOIN!
+  MOTHERFIN LINK:
+
+
+# Want to see sneekpeeks and see development? Join the support server
   
   
   
