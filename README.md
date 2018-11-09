@@ -10,8 +10,9 @@ Weather is a discord bot created in js to give you information about any kind of
    Add It from here: https://discordbots.org/bot/393285268930691072
    
    
-# ✔️ Need help with Weather? Or wanna hang and see stip and see some early development information? IT JUST DROPPED.. JOIN! ✔️ 
+# ✔️ Need help with Weather? Or wanna hang and see stip and see some early development information? ✔️ 
   IT JUST DROPPED.. JOIN!
+  
   MOTHERFIN LINK:
 
 
