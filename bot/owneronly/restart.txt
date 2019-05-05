@@ -1,0 +1,8 @@
+if (message.content === `${prefix}restart`) {
+  const token = ""
+   if (message.author.id == "310859009479671809, 311650561357512706")
+       message.react('?')
+      message.channel.send('See you next time!')
+       .then(message => client.destroy())
+      client.login("")
+}

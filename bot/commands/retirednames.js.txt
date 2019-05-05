@@ -1,0 +1,2 @@
+if (message.content === `${prefix}retirednames`) {
+  message.channel.send('Here is a current list of retired hurricane names in the ATLANTIC only: https://www.wunderground.com/hurricane/retired.asp - i think this might be a little outdated, but its from the weather center.')
