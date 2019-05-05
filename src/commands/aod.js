@@ -1,3 +1,0 @@
-if (message.content === `${prefix}aod`) {
- message.channel.send('There are 0 areas of development. Data pulled from: https://www.nhc.noaa.gov/gtwo.php?basin=epac&fdays=2')
-   message.react("?");
